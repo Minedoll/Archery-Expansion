@@ -1,0 +1,51 @@
+{
+  "item.archeryexp.gold_bow": "金の弓",
+  "item.archeryexp.wooden_bow": "木の弓",
+  "item.archeryexp.iron_bow": "鉄の弓",
+  "item.archeryexp.diamond_bow": "ダイヤモンドの弓",
+  "item.archeryexp.netherite_bow": "ネザライトの弓",
+
+  "item.archeryexp.gold_arrow": "金の矢",
+  "item.archeryexp.iron_arrow": "鉄の矢",
+  "item.archeryexp.diamond_arrow": "ダイヤモンドの矢",
+  "item.archeryexp.netherite_arrow": "ネザライトの矢",
+
+  "enchantment.archeryexp.scouting": "斥候",
+  "enchantment.archeryexp.baby_face": "俊足",
+  "enchantment.archeryexp.follow_through": "追撃",
+  "enchantment.archeryexp.grit": "根性",
+  "enchantment.archeryexp.shattering": "粉砕",
+  "enchantment.archeryexp.trajectory": "軌道予測",
+  "enchantment.archeryexp.headshot": "ヘッドショット",
+
+  "enchantment.archeryexp.fragility": "消耗の呪い",
+  "enchantment.archeryexp.pincushioning": "針山の呪い",
+
+  "enchantment.archeryexp.scouting.desc": "弓を引き絞っている間は移動速度上昇効果を獲得する。",
+  "enchantment.archeryexp.baby_face.desc": "矢が対象に当たると移動速度上昇効果を獲得する。",
+  "enchantment.archeryexp.follow_through.desc": "矢が対象に当たると攻撃力上昇効果を獲得する。",
+  "enchantment.archeryexp.grit.desc": "弓を引き絞っている間は耐性効果を獲得する。",
+  "enchantment.archeryexp.shattering.desc": "5%の確率で、矢がレベル毎に対象の防具に対して最大耐久値の5%の追加ダメージを与える。",
+  "enchantment.archeryexp.trajectory.desc": "矢の軌道が見えるようになる。",
+  "enchantment.archeryexp.headshot.desc": "矢が対象の頭に当たった場合、レベル毎に+2の追加ダメージを与える。",
+
+  "enchantment.archeryexp.fragility.desc": "矢に当たると防具の耐久値がレベル毎に追加で2減少する。",
+  "enchantment.archeryexp.pincushioning.desc": "常に隙効果が付与される。",
+
+  "effect.archeryexp.quickdraw": "隙",
+  "effect.archeryexp.quickdraw.description": "矢を放った後は無防備な状態になり、追加のダメージを受けやすくなる。",
+
+  "entity.archeryexp.gold_arrow": "金の矢",
+  "entity.archeryexp.iron_arrow": "鉄の矢",
+  "entity.archeryexp.diamond_arrow": "ダイヤモンドの矢",
+  "entity.archeryexp.netherite_arrow": "ネザライトの矢",
+
+
+  "attribute.archeryexp.mainhand": "矢を放ったとき:",
+  "attribute.archeryexp.base_damage": "%s 基礎ダメージ",
+  "attribute.archeryexp.draw_cooldown": "%s クールタイム",
+  "attribute.archeryexp.charge_time": "%s 引き絞り速度",
+  "attribute.archeryexp.walk_speed_up": "+%s 移動速度",
+  "attribute.archeryexp.walk_speed_down": "-%s 移動速度",
+  "attribute.archeryexp.recoil": "%s 反動"
+}
